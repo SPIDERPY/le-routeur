@@ -1,0 +1,10 @@
+li {
+    list-style: none;
+    border: 3px #187498 solid;
+    margin-right: 80%;
+    text-align: center;
+}
+
+a {  
+    text-decoration: none;
+}
